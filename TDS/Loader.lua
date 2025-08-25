@@ -92,8 +92,7 @@ local appendlog = function(...)
     end)
 end
 local LinkTable = {
-    "https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2",
-    "https://raw.githubusercontent.com/wxzex/mmsautostratcontinuation/main/autostratscode.txt"
+    "https://raw.githubusercontent.com/welcomemy38-art/Strategies-X/refs/heads/main/TDS/TDSTools/ckmhjvskfkmsStratFun2.lua
 }
 
 local OldNamecall
